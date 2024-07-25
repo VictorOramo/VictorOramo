@@ -1,4 +1,4 @@
-### Hi there 👋, Actialmente estoy aprendiendo.
+### Hi there 👋, Actualmente estoy aprendiendo.
 
 <!--
 **VictorOramo/VictorOramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
